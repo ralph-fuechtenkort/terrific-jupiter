@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Ralph is the Big Time Hero
-    subtitle: Optional hero section subtitle
+    subtitle: That does not require any sub-headline
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
