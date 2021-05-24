@@ -2,7 +2,7 @@
 title: Preise
 sections:
   - type: hero_section
-    title: Pick Your Plan
+    title: Pick Your Product
     subtitle: Optional hero section subtitle
     align: center
     padding_top: large
