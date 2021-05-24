@@ -159,6 +159,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: /images/classic/icon-3.svg
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
