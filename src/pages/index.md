@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Ralph is the Big Time Hero
     subtitle: That does not require any sub-headline
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel.**
     actions:
       - type: action
         label: Try Free
