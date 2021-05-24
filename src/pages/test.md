@@ -32,6 +32,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: /images/about-1.jpg
+    background_image: /images/about-3.jpg
 seo:
   title: ''
   description: ''
