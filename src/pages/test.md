@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Meine Test Seite
 sections: []
 seo:
   title: ''
