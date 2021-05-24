@@ -29,7 +29,7 @@ sections:
     subtitle: Grid Section Example
     grid_items:
       - type: grid_item
-        image: images/logo-1.svg
+        image: /images/brandon-guidelines.png
         image_alt: Contentful logo
         image_align: center
       - type: grid_item
