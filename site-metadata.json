@@ -20,7 +20,7 @@
             },
             {
                 "type": "action",
-                "label": "Pricing",
+                "label": "Preise",
                 "url": "/pricing",
                 "style": "link"
             },
