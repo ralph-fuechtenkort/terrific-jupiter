@@ -135,7 +135,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: lorem-ipsum
+      - title: Ralphs Section
         subtitle: lorem-ipsum
         title_align: left
         content: >-
