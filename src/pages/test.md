@@ -34,7 +34,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
-    content: >-
+    content: >
       ## Lorem ipsum
 
 
@@ -42,9 +42,12 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
+
+
+      ![](/\_static/app-assets/about-1.jpg)
     content_align: left
     form_position: bottom
     form_width: fifty
